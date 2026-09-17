@@ -20,7 +20,7 @@ Then follow `lab1.md` and `lab2.md` in this folder. Two things to know:
 ## 1. Get the code
 
 ```
-git clone -b anthropic-workshop https://github.com/amandaw-ant/model-mastery.git
+git clone <this repo>
 cd model-mastery/anthropic
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
